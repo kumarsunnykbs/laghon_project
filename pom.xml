@@ -104,7 +104,7 @@
     <jib-maven-plugin.version>3.1.4</jib-maven-plugin.version>
 
     <!-- Spring -->
-    <spring-boot.version>2.5.5</spring-boot.version>
+    <spring-boot.version>3.2.3</spring-boot.version>
     <spring-data.version>2.5.5</spring-data.version>
 
     <!-- Security -->
